@@ -28,17 +28,17 @@ Contents:
 .. toctree::
    :caption: First Steps
    :hidden:
-   instruction/newuser
-   instruction/registereduser
-   instruction/demonstration
+   instructions/newuser
+   instructions/registereduser
+   instructions/demonstration
    
 .. toctree::
    :caption: Basic Concepts
-   concept/gui
-   concept/cli
-   concept/freqanalysis
-   concept/level
-   concept/cipher
-   concept/decipher
+   concepts/gui
+   concepts/cli
+   concepts/freqanalysis
+   concepts/level
+   concepts/cipher
+   concepts/decipher
    
    
