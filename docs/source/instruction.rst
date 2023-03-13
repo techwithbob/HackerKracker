@@ -13,8 +13,8 @@ For *new users*, follow these steps:
    - Press ``start`` to initiate the game.
  3. **Game Play** 
    - After pressing the ``start`` button, two different gameplay UI (User Interfaces) appear.
-    - The ::doc:`concept/gui` (Graphic User Interfaces) which is on the right handside of the screen.
-    - The ::doc:`concept/cli` (Command Line Interfaces) which is on the left handside of the screen.
+    - The ::doc: `concept/gui` (Graphic User Interfaces) which is on the right handside of the screen.
+    - The ::doc: `concept/cli` (Command Line Interfaces) which is on the left handside of the screen.
 Registered Users
 -----------------
 For *registered users*, follow these steps:
