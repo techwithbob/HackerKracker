@@ -2,7 +2,7 @@
 ==========
 Flow Chart Description
 ----------------------
-.. image:: docs/source/images/level-description.png
+.. image:: level-description.png
   :width: 600
   :alt: index
 Definitions Level
