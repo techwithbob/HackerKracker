@@ -1,22 +1,26 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to HackerKracker documentation!
+=======================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**HackerKracker** (/Hacker'crack'er/) is a Cipher-Based Website Game for anyone
+who are interested in practicing the skills of cracking cipher into text and vice versa.
+This HackerKracker Cipher-Based Website Game consist of various level with different
+difficulty to solve.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the ::doc:`instruction` pages for the full instruction on playing the 
+**HackerKracker** Cipher-Based Website Game. 
 
-.. note::
+.. note:: 
 
-   This project is under active development.
+    This project is under active development.
+    Developed by Lake Ginninderra College Student
+    Muhammad Yunus. `Github Link <https://github.com/techwithbob/HackerKracker>`_.
 
-Contents
---------
-
+Contents:
+----------
 .. toctree::
-
-   usage
-   api
+    
+    instruction
+    demo
+    concept
+    development
+    credit 
