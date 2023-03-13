@@ -12,11 +12,13 @@ version = '0.1.1'
 # -- General configuration
 
 extensions = [
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
+    "hoverxref.extension",
+    "notfound.extension",
+    "scrapydocs",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.coverage",
+    "sphinx.ext.intersphinx",
+    "sphinx.ext.viewcode",
 ]
 
 intersphinx_mapping = {
