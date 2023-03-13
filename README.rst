@@ -8,4 +8,4 @@ Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
 
-.. Lines test
+.. Lines test sudo apt install sphinx
