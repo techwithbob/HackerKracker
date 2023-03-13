@@ -25,6 +25,7 @@ Contents:
     instructions/newuser
     instructions/demo
     instructions/usage
+    concepts/level
     credit 
 
 .. toctree::
