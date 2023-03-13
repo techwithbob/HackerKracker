@@ -19,21 +19,20 @@ Contents:
 ----------
 .. toctree::
     
-    instruction
-    demo
-    concept
-    development
+    instructions/newuser
+    instructions/demo
+    instructions/usage
     credit 
 
 .. toctree::
-   :caption: First Steps
+   :caption: Getting Started
    :hidden:
    instructions/newuser
    instructions/registereduser
-   instructions/demonstration
+   instructions/demo
    
 .. toctree::
-   :caption: Basic Concepts
+   :caption: Concepts
    concepts/gui
    concepts/cli
    concepts/freqanalysis
