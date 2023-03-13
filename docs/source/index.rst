@@ -31,12 +31,15 @@ Contents:
 .. toctree::
    :caption: Getting Started
    :hidden:
+   
    instructions/newuser
    instructions/registereduser
    instructions/demo
    
 .. toctree::
    :caption: Concepts
+   :hidden:
+   
    concepts/gui
    concepts/cli
    concepts/freqanalysis
