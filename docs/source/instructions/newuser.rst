@@ -25,7 +25,7 @@ For *new users*, follow these steps:
     - press ``quit game`` if users want to finish the game and returning back to the homepage.
     
      *Snap Shot!*
-.. image:: https://github.com/techwithbob/HackerKracker/blob/26809ebf024febbdf79b5aeac6d0aaca3de35564/docs/source/images/gameplay-ui.png
+.. image:: docs/source/images/gameplay-ui.png
  :width: 800
  :alt: index
 
