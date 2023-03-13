@@ -1,6 +1,9 @@
 Welcome to HackerKracker documentation!
 =======================================
 
+.. image:: images/hk.png
+    :width: 400
+    :alt: index
 **HackerKracker** (/Hacker'crack'er/) is a Cipher-Based Website Game for anyone
 who are interested in practicing the skills of cracking cipher into text and vice versa.
 This HackerKracker Cipher-Based Website Game consist of various level with different
@@ -10,7 +13,7 @@ Check out the ::doc:`instruction` pages for the full instruction on playing the
 **HackerKracker** Cipher-Based Website Game. 
 
 .. note:: 
-
+    
     This project is under active development.
     Developed by Lake Ginninderra College Student
     Muhammad Yunus. `Github Link <https://github.com/techwithbob/HackerKracker>`_.
