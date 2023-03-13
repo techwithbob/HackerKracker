@@ -24,3 +24,21 @@ Contents:
     concept
     development
     credit 
+
+.. toctree::
+   :caption: First Steps
+   :hidden:
+   instruction/newuser
+   instruction/registereduser
+   instruction/demonstration
+   
+.. toctree::
+   :caption: Basic Concepts
+   concept/gui
+   concept/cli
+   concept/freqanalysis
+   concept/level
+   concept/cipher
+   concept/decipher
+   
+   
