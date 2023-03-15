@@ -46,5 +46,6 @@ Contents:
    concepts/level
    concepts/cipher
    concepts/decipher
+   concepts/syntax
    
    
