@@ -18,10 +18,10 @@ For *new users*, follow these steps:
    - The :doc:`concepts/gui` on the right handside consisted features of showing the task description
      to solve the current level of :doc:`concepts/cipher`/:doc:`concepts/decipher` problems. And features of menubar
      showing the various available navigation pages for the users to go.
-   - The :doc:`concepts/cli` on the left handside consisted features of user input in the form of command line interfaces. The user input will be used to input the answer from the cipher/decipher problems. There are command specific :doc:`concepts/syntax` which the user can input into the :doc:`concpets/cli`.
+   - The :doc:`https://hackerkracker.readthedocs.io/en/latest/concepts/gui.html` on the left handside consisted features of user input in the form of command line interfaces. The user input will be used to input the answer from the cipher/decipher problems. There are command specific :doc:`concepts/syntax` which the user can input into the :doc:`https://hackerkracker.readthedocs.io/en/latest/concepts/gui.html`.
  4. **Completing Game**
    - After completing the task, the users will be shown a popup of ``continue`` and ``quit game`` button. 
-    - press ``continue`` if users want to continue into different set of task in different :doc:`concepts/level`.
+    - press ``continue`` if users want to continue into different set of task in different :doc:`https://hackerkracker.readthedocs.io/en/latest/concepts/level.html`.
     - press ``quit game`` if users want to finish the game and returning back to the homepage.
     
      *Snap Shot!*
