@@ -13,8 +13,8 @@ For *new users*, follow these steps:
    - Press ``start`` to initiate the game.
  3. **Game Play**   
    - After pressing the ``start`` button, two different gameplay UI (User Interfaces) appear.
-    - The :doc:`docs/source/concepts/gui.rst` (Graphic User Interfaces) which is on the right handside of the screen.
-    - The :doc:`docs/source/concepts/cli.rst` (Command Line Interfaces) which is on the left handside of the screen.
+    - The :doc:`/docs/source/concepts/gui` (Graphic User Interfaces) which is on the right handside of the screen.
+    - The :doc:`/docs/source/concepts/cli` (Command Line Interfaces) which is on the left handside of the screen.
    - The :doc:`concepts/gui` on the right handside consisted features of showing the task description
      to solve the current level of :doc:`concepts/cipher`/:doc:`concepts/decipher` problems. And features of menubar
      showing the various available navigation pages for the users to go.
@@ -25,8 +25,7 @@ For *new users*, follow these steps:
     - press ``quit game`` if users want to finish the game and returning back to the homepage.
     
      *Snap Shot!*
-.. image:: docs/source/images/gameplay-ui.png
- :width: 800
+.. figure:: /docs/source/images/gameplay-ui.png
  :alt: index
 
 .. note::
