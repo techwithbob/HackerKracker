@@ -30,5 +30,5 @@ For *new users*, follow these steps:
 
 .. note::
  
- The snapshot of gameplay UI shown above is just and illustration and not finalised. This project is under active development.
+ The snapshot of gameplay UI shown above is just and illustration and not finalised. This project is under active development and will have substantial changes in the future.
 
