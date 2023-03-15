@@ -4,7 +4,7 @@
 Instructions
 -------------
 For *new users*, follow these steps:
- 1. **Administration**
+ 1. **Account**
    - Register new account.
     - Create available username.
     - Create strong password with atleast 12 character.
