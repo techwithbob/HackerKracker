@@ -7,5 +7,5 @@ The GUI, graphical user interface, is a form of user interface that allows users
 Gameplay UI (User Interfaces)
 -------------------------------
 
-.. image:: https://github.com/techwithbob/HackerKracker/blob/d7d09b642aeb87155a4f1f609e118487a6c59185/docs/source/images/gameplay-ui.png
+.. figure:: ../images/gameplay-ui.png
    :alt: gameplay-ui
