@@ -13,8 +13,8 @@ For *new users*, follow these steps:
    - Press ``start`` to initiate the game.
  3. **Game Play**   
    - After pressing the ``start`` button, two different gameplay UI (User Interfaces) appear.
-    - The :doc:`/docs/source/concepts/gui.rst` (Graphic User Interfaces) which is on the right handside of the screen.
-    - The :doc:`/docs/source/concepts/cli.rst` (Command Line Interfaces) which is on the left handside of the screen.
+    - The :doc:`https://hackerkracker.readthedocs.io/en/latest/concepts/gui.html` (Graphic User Interfaces) which is on the right handside of the screen.
+    - The :doc:`https://hackerkracker.readthedocs.io/en/latest/concepts/cli.html` (Command Line Interfaces) which is on the left handside of the screen.
    - The :doc:`concepts/gui` on the right handside consisted features of showing the task description
      to solve the current level of :doc:`concepts/cipher`/:doc:`concepts/decipher` problems. And features of menubar
      showing the various available navigation pages for the users to go.
