@@ -26,7 +26,7 @@ For *new users*, follow these steps:
     
      *Snap Shot!*
 
-.. figure:: https://github.com/techwithbob/HackerKracker/blob/b784dad1422e2de1fd0396ae8e4936f7352998de/docs/source/images/gameplay-ui.png
+.. figure:: ../images/gameplay-ui.png
   :alt: index
 
 .. note::
