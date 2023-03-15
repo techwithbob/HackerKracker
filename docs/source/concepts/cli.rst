@@ -6,5 +6,5 @@ A command-line interpreter or command-line processor uses a command-line interfa
 
 Gameplay UI (User Interfaces)
 ------------------------------
-.. image:: https://github.com/techwithbob/HackerKracker/blob/d7d09b642aeb87155a4f1f609e118487a6c59185/docs/source/images/gameplay-ui.png
+.. image:: ../images/gameplay-ui.png
   :alt: gameplay-ui
