@@ -21,9 +21,8 @@ For *registered users*, follow these steps:
     - press ``continue`` if users want to continue into different set of task in different :doc:`concepts/level`.
     - press ``quit game`` if users want to finish the game and returning back to the homepage.
     
-     *Snap Shot!*
-.. image:: docs/source/images/gameplay-ui.png
- :width: 800
+    *Snap Shot!*
+.. figure:: https://github.com/techwithbob/HackerKracker/blob/b784dad1422e2de1fd0396ae8e4936f7352998de/docs/source/images/gameplay-ui.png
  :alt: index
 
 .. note::
