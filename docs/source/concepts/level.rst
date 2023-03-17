@@ -2,8 +2,7 @@
 ==========
 Flow Chart Description
 ----------------------
-.. image:: https://github.com/techwithbob/HackerKracker/blob/6c48bd09046398935c38d397ec1970817eace657/docs/source/images/level-description.png
-  :width: 600
+.. figure:: ../images/level-description.png
   :alt: Level Diagram
 Definitions Level
 -----------------
