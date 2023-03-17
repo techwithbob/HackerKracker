@@ -9,7 +9,7 @@ who are interested in practicing the skills of cracking cipher into text and vic
 This HackerKracker Cipher-Based Website Game consist of various level with different
 difficulty to solve.
 
-Check out the ::doc:`instruction` pages for the full instruction on playing the 
+Check out the :doc:`instruction` pages for the full instruction on playing the 
 **HackerKracker** Cipher-Based Website Game. 
 
 .. note:: 
