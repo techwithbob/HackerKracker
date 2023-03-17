@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'HackerKracker'
-copyright = '2023, TechWithBob'
+copyright = '2023, @TechWithBob - мухаммадов юнусович ирсядов (Muhammad Irsyad Yunus)'
 author = 'Muhammad Yunus'
 
 release = '0.1'
